@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(16, 179, 255);
+    background-image: url(3.jpg);
+    font-family: "Lucida Console", Monaco;
+    font-size: 40px;
+    color: rgb(3, 39, 158);
+    text-align: center;
+    margin-top: 60px;
+  }
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 20px;
+  }
